@@ -7,6 +7,7 @@ I enjoy digging into how algorithms work internally, designing reusable architec
 ---
 
 ## 🧠 What I Work On
+- Python SDE
 - Machine Learning & Deep Learning
 - Time Series Forecasting
 - From-scratch ML implementations
